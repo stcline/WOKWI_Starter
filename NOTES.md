@@ -6,3 +6,5 @@ Game Plan
 4. Can you directly run to Arduino - probably not.
 
 The objective is to have them try it out. Maybe this will be a replace most of the Arduino (and maybe GitHub) work.  
+
+Looks pretty cool: https://web.esphome.io/
