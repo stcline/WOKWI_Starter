@@ -1,6 +1,6 @@
-# :robot: Assignment Title 
+# :robot: WOKWI Starter
 
-## 🤓 Overview and learning outcomes 
+## 🤓 In this short lab you will learn to use the powerful simulator that is WOKWI.  
 
 The goal of this lab assignment... 🚀
 
